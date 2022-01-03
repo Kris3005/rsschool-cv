@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Dosis;
+     src: url("assets/fonts/Dosis-Light.ttf");
+   }
+body {
+    font-family: 'Dosis', sans-serif;
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+* {
+    box-sizing: border-box;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
