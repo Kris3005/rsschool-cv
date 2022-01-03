@@ -20,5 +20,5 @@ demanded front-end developer. I plan to achieve this goal thanks to my self-orga
 ### Courses ###
 * HTML for begginers on code-basics.com (complited)
 * CSS for begginers on code-basics.com (complited)
-![JS](\JSimg.jpg) JavaScript for begginers on code-basics.com (complited)
+![JS](/JSimg.jpg) JavaScript for begginers on code-basics.com (complited)
 * Front-end.Stage 0 on Rsschool (in process)
