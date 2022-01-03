@@ -16,7 +16,7 @@ demanded front-end developer. I plan to achieve this goal thanks to my self-orga
 * Git, GitHub
 * VS Code
 ### Code example ###
-'''
+```
 
 function multiply (a, b = 2) {
     return a * b;
@@ -24,7 +24,7 @@ function multiply (a, b = 2) {
 
 multiply(8);
 
-'''
+```
 ### Courses ###
 * HTML for begginers on code-basics.com (complited)
 * CSS for begginers on code-basics.com (complited)
