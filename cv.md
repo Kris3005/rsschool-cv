@@ -1,7 +1,7 @@
 # Kristina Kuzmenko #
-===
+
 ## Junior Frontend Developer ##
-===
+
 ## Contact information: ##
 * **Location:** Minsk, Belarus
 * **Phone:** +375 44 545 95 78
