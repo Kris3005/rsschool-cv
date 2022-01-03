@@ -1,5 +1,5 @@
 ## Kristina Kuzmenko ##
-## Junior Frontend Developer ##
+### Junior Frontend Developer ###
 
 ### Contact information ###
 * **Location:** Minsk, Belarus
@@ -16,9 +16,20 @@ demanded front-end developer. I plan to achieve this goal thanks to my self-orga
 * Git, GitHub
 * VS Code
 ### Code example ###
+'''
 
+function multiply (a, b = 2) {
+    return a * b;
+}
+
+multiply(8);
+
+'''
 ### Courses ###
 * HTML for begginers on code-basics.com (complited)
 * CSS for begginers on code-basics.com (complited)
-![JS](/JSimg.jpg) JavaScript for begginers on code-basics.com (complited)
+* JavaScript for begginers on code-basics.com (complited)
 * Front-end.Stage 0 on Rsschool (in process)
+### Languages ###
+* Russian - Native
+* English - Pre-Intermediate
